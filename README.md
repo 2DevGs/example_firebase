@@ -1,16 +1,11 @@
 # example_firebase
 
-A new Flutter project.
+This Flutter project covers all the reviewed content of the Flutter module.
+If you are interested, disregard the issues and warnings. This content is out of context, totally focused on learning. The notes are in my native language (Brazilian Portuguese) to facilitate my understanding.
+This project includes the following content:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Setting up the project in the Firebase console.
+Setting up Firebase in the project.
+Setting up Firebase Auth.
+Changing additional user data (name, photo, email, password).
+Retrieving the logged in user and registering a user data change listener.
